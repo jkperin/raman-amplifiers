@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Matlab
+*.asv
+*.bmp
+*.jpg
+*.png
+*.eps
+*.pdf
+*.fig
+*.mexw32
+*.mexw64
+
+Sorteio_150e3_4pump.mat

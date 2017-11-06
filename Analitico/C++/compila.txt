@@ -1,0 +1,5 @@
+mex
+emlc -o DRA_analiticox -report DRA_Analitico_jose.m -eg {bombeio,sinal,fibra}
+
+c/c++
+emlc -c -T RTW -report DRA_Analitico_jose.m -eg {bombeio,sinal,fibra}
